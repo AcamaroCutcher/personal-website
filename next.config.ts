@@ -4,7 +4,6 @@ const nextConfig: NextConfig = {
   /* config options here */
   reactCompiler: true,
   output: 'export',
-  basePath: '/personal-website',
   trailingSlash: true,
   images: {
     unoptimized: true,
